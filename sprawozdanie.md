@@ -66,16 +66,16 @@ Włączenie agenta SSH
 - Utworzenie katalogu składającego się z inicjałów i numeru albumu
 
 ![](7-1.png)
-
-- Wysłanie zmian do zdalnego źródła
+ 
+ - Wysłanie zmian do zdalnego źródła
 
 ![](7-2.png)
 
-- Zrobienie pierwszego commita
+- - Zrobienie pierwszego commita
 
 ![](7-3.png)
 
-- Oraz wrzucenie go na githuba na swojego brancha
+-  - Oraz wrzucenie go na githuba na swojego brancha
 
 ![](7-4.png)
 
